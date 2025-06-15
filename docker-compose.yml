@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  yggdrazil-browser:
+    build: .
+    container_name: yggdrazil-browser
+    volumes:
+      - .:/app
+    environment:
+      - DISPLAY=:99
+    restart: unless-stopped

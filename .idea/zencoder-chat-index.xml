@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ai.zencoder.plugin.chat.index">
+    <option name="chatMetadata" value="{&quot;e0da77f9-7f3c-4e41-afe0-cdceea7a06db&quot;:{&quot;id&quot;:&quot;e0da77f9-7f3c-4e41-afe0-cdceea7a06db&quot;,&quot;title&quot;:&quot;README and Docker Setup&quot;,&quot;createdAt&quot;:1749958476511,&quot;updatedAt&quot;:1749958545153,&quot;isAgent&quot;:true,&quot;isNameGenerated&quot;:true,&quot;messageCount&quot;:3,&quot;lastMessagePreview&quot;:&quot;Now I'll create a requirements.txt file based on the imports in the main.py file:&quot;}}" />
+  </component>
+</project>
